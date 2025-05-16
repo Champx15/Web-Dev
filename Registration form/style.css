@@ -1,0 +1,30 @@
+html{
+    background-color: #1B1B32
+    
+}
+h1,p{
+
+    margin: 1em auto;
+    text-align: center;
+    
+}
+body{
+    font-family: Tahoma;
+    color: white;
+}
+label{
+    display: block;
+    margin-left: 6.5em  ; 
+    margin-top: 0.5em;
+    
+}
+input,select,textarea{
+        margin-left: 7.9em ; 
+        margin-top: 0.5em;
+        
+}
+
+main{
+    margin: 40px auto;
+}
+
