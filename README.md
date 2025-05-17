@@ -6,4 +6,4 @@ Just basic HTML and CSS for now — learning step by step.
 
 Stay tuned for more!
 
-- Champ
+-- Champ
